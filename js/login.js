@@ -18,7 +18,7 @@ document.getElementById('button-login').addEventListener('click', function (even
         //step 5: redirect to dashboard page
         console.log('Login successful');
 
-        window.location.href = '/frontend_projects/currency-MFS/home.html';
+        window.location.href = '/home.html';
     }
     
     else {
