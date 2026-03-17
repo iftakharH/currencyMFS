@@ -1,4 +1,4 @@
-# currency-MFS
+# currencyMFS
 
 A lightweight **Mobile Financial Service (MFS)** web application that simulates core digital wallet operations — adding funds, cashing out, and tracking transaction history — all inside a realistic phone mockup UI.
 
@@ -20,7 +20,7 @@ A lightweight **Mobile Financial Service (MFS)** web application that simulates 
 
 ## Overview
 
-**currency-MFS** is a front-end only MFS prototype built with vanilla HTML, CSS, and JavaScript. It demonstrates the basic user flows of a mobile banking or digital wallet application — from secure login to financial transactions — without requiring any backend or database.
+**currencyMFS** is a front-end only MFS prototype built with vanilla HTML, CSS, and JavaScript. It demonstrates the basic user flows of a mobile banking or digital wallet application — from secure login to financial transactions — without requiring any backend or database.
 
 ---
 
