@@ -61,7 +61,7 @@ Then serve the project with any static file server:
 python -m http.server 8080
 
 # Using Node.js (npx)
-npx serve .
+npx serve . -l 8080
 ```
 
 Navigate to `http://localhost:8080` (or the port reported by your server) to view the application. Opening `index.html` directly via a `file://` URL is not supported.
