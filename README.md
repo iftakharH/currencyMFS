@@ -47,14 +47,14 @@ A lightweight **Mobile Financial Service (MFS)** web application that simulates 
 
 ## Getting Started
 
-No build step or package installation is required. Simply clone the repository and open `index.html` in any modern web browser.
+No build step or package installation is required. Simply clone the repository and serve the project with a local static file server.
 
 ```bash
 git clone https://github.com/iftakharH/currencyMFS.git
 cd currencyMFS
 ```
 
-Then open `index.html` directly in your browser, or serve it with any static file server:
+Then serve the project with any static file server:
 
 ```bash
 # Using Python
@@ -64,7 +64,7 @@ python -m http.server 8080
 npx serve .
 ```
 
-Navigate to `http://localhost:8080` to view the application.
+Navigate to `http://localhost:8080` (or the port reported by your server) to view the application. Opening `index.html` directly via a `file://` URL is not supported.
 
 ---
 
