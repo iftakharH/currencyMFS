@@ -86,6 +86,9 @@ currencyMFS/
 ├── home.html           # Dashboard (add money, cash out, transaction history)
 ├── js/
 │   ├── login.js        # Login form handling and authentication
+│   ├── home.js         # Legacy home screen logic (unused; kept for reference)
+│   ├── addMoney.js     # Legacy Add Money logic (unused; superseded by addMoney2.js)
+│   ├── utilities.js    # Legacy shared helpers (unused; superseded by utilities2.js)
 │   ├── addMoney2.js    # Add Money form logic
 │   ├── cashOut.js      # Cash Out form logic
 │   ├── features.js     # UI section toggling (show/hide forms)
